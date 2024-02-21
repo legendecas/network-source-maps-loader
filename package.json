@@ -1,0 +1,16 @@
+{
+  "name": "network-source-maps-loader",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "serve-handler": "^6.1.5"
+  }
+}
